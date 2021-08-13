@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhruvvekaria
-- 👀 I’m interested in programing
+- 👀 I’m interested in Programing And Android Development
 - 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a project like Home Automation
 - 📫 How to reach me can call me on(9998257168) or msil me on (vekariadhruv23@gmail.com)
 
 <!---
