@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhruvvekaria
-- 👀 I’m interested in Programing And Android Development
+- 👀 I’m interested in Programming, Android Development, 3d piping in AVEVA E3D and AVEVA PDMS 
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on a project like Home Automation
 - 📫 How to reach me can call me on ( 9998257168 ) or mail me on ( vekariadhruv23@gmail.com )
